@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Коронавирус Саратов</string>
+    <string name="connection">Подключение…</string>
+    <string name="infected_peoples">Случаев заражения:"  "</string>
+    <string name="plus_on_day">Зараженных за день:"  "</string>
+    <string name="active_infections">Активных случаев:"  "</string>
+    <string name="dead_peoples">Погибших:"  "</string>
+    <string name="recovered">Выздоровевших:"  "</string>
+    <string name="update">Обновить</string>
+    <string name="updated">Обновлено</string>
+</resources>
